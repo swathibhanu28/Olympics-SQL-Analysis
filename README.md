@@ -7,7 +7,7 @@ This project analyzes 120 years of Olympic history using MySQL. The dataset cont
 
 ## Database Schema
 
-The database contains two tables — olympics_history and olympics_history_noc_regions.
+The database contains two tables - olympics_history and olympics_history_noc_regions.
 
 - olympics_history stores athlete-level data including name, sex, age, height, weight, team, NOC code, games, year, season, city, sport, event, and medal.
 - olympics_history_noc_regions maps each NOC code to a country region name.
